@@ -8,6 +8,7 @@ const TheWordPage = lazy(() => import('../pages/the-word/page'));
 const GrowthPage = lazy(() => import('../pages/growth/page'));
 const GentlemanLadyPage = lazy(() => import('../pages/gentleman-lady/page'));
 const ResourcesPage = lazy(() => import('../pages/resources/page'));
+const GalleryPage = lazy(() => import('../pages/gallery/page'));
 const ContactPage = lazy(() => import('../pages/contact/page'));
 const NotFound = lazy(() => import('../pages/NotFound'));
 
@@ -35,6 +36,10 @@ const routes: RouteObject[] = [
   {
     path: '/resources',
     element: <ResourcesPage />,
+  },
+  {
+    path: '/gallery',
+    element: <GalleryPage />,
   },
   {
     path: '/contact',

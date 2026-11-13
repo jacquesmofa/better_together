@@ -24,6 +24,7 @@ const Navbar = () => {
     { label: 'Growth', path: '/growth' },
     { label: 'Gentleman & Lady', path: '/gentleman-lady' },
     { label: 'Resources', path: '/resources' },
+    { label: 'Gallery', path: '/gallery' },
     { label: 'Contact', path: '/contact' },
   ];
 
