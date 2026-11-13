@@ -1,2 +1,0 @@
-import{j as e}from"./index-DREA1I1a.js";import{m as i}from"./Footer-B0bJ1VKo.js";const o=({children:t,className:a=""})=>e.jsx(i.div,{className:`relative inline-block ${a}`,animate:{textShadow:["0 0 10px rgba(241, 165, 19, 0.3)","0 0 20px rgba(241, 165, 19, 0.6)","0 0 10px rgba(241, 165, 19, 0.3)"]},transition:{duration:3,repeat:1/0,ease:"easeInOut"},children:t});export{o as G};
-//# sourceMappingURL=GlowingText-B_VBQkwp.js.map
